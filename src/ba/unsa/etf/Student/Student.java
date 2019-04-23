@@ -72,7 +72,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return getIme() + " - "+ getPrezime();
+        return getIme() + "  "+ getPrezime();
     }
 
 
